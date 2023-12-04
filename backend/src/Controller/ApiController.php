@@ -24,10 +24,6 @@ final class ApiController extends AbstractController
         $input1 = [];
         $input2 = [];
 
-        $allCombinations = $this->service->generateCombinations($input1, $input2);
-
-        $filteredOutput = array_map('unserialize', array_unique(array_map('serialize', $allCombinations)));
-
-        return new JsonResponse($filteredOutput, 200);
+        return new JsonResponse($this->service->generateCombinations($input1, $input2), 200);
     }
 }

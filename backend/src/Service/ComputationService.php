@@ -37,6 +37,6 @@ final class ComputationService
             );
         }
 
-        return $combinations;
+        return array_map('unserialize', array_unique(array_map('serialize', $combinations)));
     }
 }
