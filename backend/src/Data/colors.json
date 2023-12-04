@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Ash Grey",
+    "code": "#808079",
+    "rgb": {
+      "red": 128,
+      "green": 128,
+      "blue": 121
+    }
+  },
+  {
+    "name": "Earth Brown",
+    "code": "#806A5D",
+    "rgb": {
+      "red": 128,
+      "green": 106,
+      "blue": 93
+    }
+  },
+  {
+    "name": "Corpus Grey",
+    "code": "#808080",
+    "rgb": {
+      "red": 128,
+      "green": 128,
+      "blue": 128
+    }
+  },
+  {
+    "name": "Hek Green",
+    "code": "#7E806A",
+    "rgb": {
+      "red": 126,
+      "green": 128,
+      "blue": 106
+    }
+  },
+  {
+    "name": "Kril Brown",
+    "code": "#80745E",
+    "rgb": {
+      "red": 128,
+      "green": 116,
+      "blue": 94
+    }
+  },
+  {
+    "name": "Gallium Grey",
+    "code": "#78828C",
+    "rgb": {
+      "red": 120,
+      "green": 130,
+      "blue": 140
+    }
+  },
+  {
+    "name": "Grustrag Grey",
+    "code": "#807A6C",
+    "rgb": {
+      "red": 128,
+      "green": 122,
+      "blue": 108
+    }
+  },
+  {
+    "name": "Saturn Brown",
+    "code": "#806753",
+    "rgb": {
+      "red": 128,
+      "green": 103,
+      "blue": 83
+    }
+  },
+  {
+    "name": "Sedna Grey",
+    "code": "#807979",
+    "rgb": {
+      "red": 128,
+      "green": 121,
+      "blue": 121
+    }
+  },
+  {
+    "name": "Derelict Black",
+    "code": "#262626",
+    "rgb": {
+      "red": 38,
+      "green": 38,
+      "blue": 38
+    }
+  },
+  {
+    "name": "Mars Red",
+    "code": "#805F44",
+    "rgb": {
+      "red": 128,
+      "green": 95,
+      "blue": 68
+    }
+  },
+  {
+    "name": "Infested Black",
+    "code": "#363333",
+    "rgb": {
+      "red": 54,
+      "green": 51,
+      "blue": 51
+    }
+  },
+  {
+    "name": "Void Black",
+    "code": "#262020",
+    "rgb": {
+      "red": 38,
+      "green": 32,
+      "blue": 32
+    }
+  },
+  {
+    "name": "Darvo Blue",
+    "code": "#697280",
+    "rgb": {
+      "red": 105,
+      "green": 114,
+      "blue": 128
+    }
+  },
+  {
+    "name": "Ordis Grey",
+    "code": "#72727A",
+    "rgb": {
+      "red": 114,
+      "green": 114,
+      "blue": 122
+    }
+  },
+  {
+    "name": "Mercury Brown",
+    "code": "#807461",
+    "rgb": {
+      "red": 128,
+      "green": 116,
+      "blue": 97
+    }
+  },
+  {
+    "name": "Anyo Grey",
+    "code": "#363640",
+    "rgb": {
+      "red": 54,
+      "green": 54,
+      "blue": 64
+    }
+  },
+  {
+    "name": "Ambulas Black",
+    "code": "#342622",
+    "rgb": {
+      "red": 52,
+      "green": 38,
+      "blue": 34
+    }
+  },
+  {
+    "name": "Shadow Grey",
+    "code": "#80736B",
+    "rgb": {
+      "red": 128,
+      "green": 115,
+      "blue": 107
+    }
+  },
+  {
+    "name": "Sargas Brown",
+    "code": "#C58D4D",
+    "rgb": {
+      "red": 197,
+      "green": 141,
+      "blue": 77
+    }
+  },
+  {
+    "name": "Jupiter Brown",
+    "code": "#805A32",
+    "rgb": {
+      "red": 128,
+      "green": 90,
+      "blue": 50
+    }
+  },
+  {
+    "name": "Phorid Red",
+    "code": "#804330",
+    "rgb": {
+      "red": 128,
+      "green": 67,
+      "blue": 48
+    }
+  },
+  {
+    "name": "Alad Blue",
+    "code": "#5B6B80",
+    "rgb": {
+      "red": 91,
+      "green": 107,
+      "blue": 128
+    }
+  },
+  {
+    "name": "Venus Brown",
+    "code": "#4D4146",
+    "rgb": {
+      "red": 77,
+      "green": 65,
+      "blue": 70
+    }
+  }
+]
